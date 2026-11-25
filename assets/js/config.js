@@ -49,7 +49,7 @@ window.SITE = {
   youtube: '',
 
   // Footer credit line: "Website designed & managed by ..."
-  creditName: 'Test 1234',   // name shown in the footer
+  creditName: 'NexoraGrowth',   // name shown in the footer
   creditUrl: '',             // optional link, e.g. 'https://yourwebsite.com' (leave '' for plain text)
 
   // Tracking. Paste the IDs when ready, tracking switches on by itself
